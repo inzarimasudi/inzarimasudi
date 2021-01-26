@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Graphics Design
-- 📫 How to reach me: ![Telegram:inzarimasudi](https://t.me/inzarimasudi)
+- 📫 How to reach me: [Telegram:inzarimasudi](https://t.me/inzarimasudi)
 - 😄 Pronouns: He/Him
 <!--
 **inzarimasudi/inzarimasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
